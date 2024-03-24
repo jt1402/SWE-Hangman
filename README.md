@@ -18,5 +18,5 @@ This Hangman game is a customized version where players guess geographical locat
 
 ## Getting Started
 
-To play the game, simply run the Python script `hangman_locations.py` in your preferred Python environment.
+To play the game, simply run the Python script `app.py` in your preferred Python environment.
 
